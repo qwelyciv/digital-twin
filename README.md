@@ -23,7 +23,6 @@ The GUI features a comprehensive telemetry dashboard tracking macro-behaviors ov
 * **Health & Disengagement:** Tracks sickness outbreaks over time and correlates student disengagement against specific demographic risk profiles.
 
 ## Visuals
-*(Note: Upload the screenshots from your `screens.docx` to the `assets` folder and link them here)*
 
 ![Simulation Interface](assets/interface_overview.png)
 *Figure 1: Main Simulation GUI with dynamic slider constraints and live monitors.*
