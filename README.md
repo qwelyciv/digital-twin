@@ -24,11 +24,11 @@ The GUI features a comprehensive telemetry dashboard tracking macro-behaviors ov
 
 ## Visuals
 
-![Simulation Interface](assets/interface_overview.png)
+![Simulation Interface](interface.png)
 *Figure 1: Main Simulation GUI with dynamic slider constraints and live monitors.*
 
-![Telemetry Plots](assets/telemetry_plots.png)
-*Figure 2: Real-time tracking of Financial Stability, Emotional Reserve, and Sickness events.*
+![Telemetry Plots](results.png)
+*Figure 2: Tracking of Financial Stability, Emotional Reserve, and Sickness.*
 
 ## Tech Stack
 * **Language:** NetLogo (Agent-Based Modeling)
